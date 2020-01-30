@@ -1,0 +1,9 @@
+INFO:root:Ran with args ('Hello World',) {}
+INFO:root:args ('Hello World!!',) kwargs {}
+INFO:root:args ('Hello World!!',) kwargs {}
+INFO:root:args ('Hello World!!',) kwargs {}
+INFO:root:args ('Hello World!!',) kwargs {}
+INFO:root:args ('Hello World!!',) kwargs {}
+INFO:root:args ('Hello World!!',) kwargs {}
+INFO:root:args ('hi',) kwargs {}
+INFO:root:args ('Hello World!!',) kwargs {}
